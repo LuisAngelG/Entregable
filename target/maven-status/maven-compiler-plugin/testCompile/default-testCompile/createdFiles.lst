@@ -1,0 +1,4 @@
+com\tecsup\petclinic\web\PetControllerTest.class
+com\tecsup\petclinic\PetClinicApplicationTests.class
+com\tecsup\petclinic\service\PetServiceTest.class
+com\tecsup\petclinic\service\OwnerServiceTest.class
